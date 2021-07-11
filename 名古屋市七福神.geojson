@@ -1,0 +1,173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "笠寺観音　笠覆寺",
+        "description": "恵比須",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.936598,
+          35.099503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "如意山　宝珠院",
+        "description": "大黒天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.848654,
+          35.139937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "袋町お聖天　福生院",
+        "description": "毘沙門天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.901579,
+          35.171704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "宝生山　辯天寺",
+        "description": "辯才天",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.84154,
+          35.099792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "成田山　萬福院",
+        "description": "福禄寿",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.912726,
+          35.162284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "八事山　興正寺",
+        "description": "寿老人",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.962862,
+          35.140538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "大須観音　宝生院",
+        "description": "布袋尊",
+        "_markerType": "Icon",
+        "_iconUrl": "https://maps.gsi.go.jp/portal/sys/v4/symbols/080.png",
+        "_iconSize": [
+          20,
+          20
+        ],
+        "_iconAnchor": [
+          10,
+          10
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          136.899433,
+          35.159758
+        ]
+      }
+    }
+  ]
+}
